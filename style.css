@@ -1,0 +1,11 @@
+.heading {
+    font-size: 26px;
+    background-color: purple;
+    color: white;
+}
+
+canvas {
+    border: dotted turquoise 12px;
+    box-shadow: 5px 5px 5px;
+    background-color: rebeccapurple;
+}
